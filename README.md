@@ -6,6 +6,7 @@ https://github.com/taylover-pei/SSDG-CVPR2020
 
 ### [Learning Generalized Spoof Cues for Face Anti-spoofing](https://arxiv.org/abs/2005.03922)
 https://github.com/Ontheway361/antispoof-single-image
+
 https://github.com/VIS-VAR/LGSC-for-FAS
 
 
@@ -26,6 +27,7 @@ https://github.com/clks-wzz/FAS-SGTD
 
 ### [Cross-ethnicity Face Anti-spoofing Recognition Challenge: A Review](https://arxiv.org/abs/2004.10998)
 _待定_
+
 https://github.com/1relia/CVPR2020-FaceAntiSpoofing
 
 https://github.com/wgqtmac/cvprw2020
