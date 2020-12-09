@@ -12,6 +12,8 @@ https://github.com/VIS-VAR/LGSC-for-FAS
 
 ### [Searching Central Difference Convolutional Networks for Face Anti-Spoofing](https://arxiv.org/pdf/2003.04092v1.pdf)
 https://github.com/ZitongYu/CDCN
+      depth image改进代码: https://github.com/clks-wzz/PRNet-Depth-Generation
+      depth image原模型: https://github.com/YadiraF/PRNet
 
 https://github.com/voqtuyen/CDCN-Face-Anti-Spoofing.pytorch
 
