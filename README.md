@@ -1,14 +1,17 @@
 # Face-Anti-Spoofing-Summary
 # 活体检测顶会论文及复习代码汇总
 
+2020
+
 ### [Single-Side Domain Generalization for Face Anti-Spoofing](https://arxiv.org/abs/2004.14043)
 https://github.com/taylover-pei/SSDG-CVPR2020
 
 ### [Learning Generalized Spoof Cues for Face Anti-spoofing](https://arxiv.org/abs/2005.03922)
+https://github.com/Podidiving/lgsc-for-fas-pytorch
+
 https://github.com/Ontheway361/antispoof-single-image
 
 https://github.com/VIS-VAR/LGSC-for-FAS
-
 
 ### [Searching Central Difference Convolutional Networks for Face Anti-Spoofing](https://arxiv.org/pdf/2003.04092v1.pdf)
 https://github.com/ZitongYu/CDCN
