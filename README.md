@@ -35,3 +35,10 @@ _待定_
 https://github.com/1relia/CVPR2020-FaceAntiSpoofing
 
 https://github.com/wgqtmac/cvprw2020
+
+
+2019
+### [FeatherNets: Convolutional Neural Networks as Light as Feather for Face Anti-spoofing](https://arxiv.org/pdf/1904.09290.pdf)
+https://github.com/SoftwareGift/FeatherNets_Face-Anti-spoofing-Attack-Detection-Challenge-CVPR2019
+
+
