@@ -1,6 +1,7 @@
 # Face-Anti-Spoofing-Summary
 # 活体检测顶会论文及复习代码汇总
 
+单帧
 2020
 
 ### [Single-Side Domain Generalization for Face Anti-Spoofing](https://arxiv.org/abs/2004.14043)
@@ -45,3 +46,7 @@ https://github.com/wgqtmac/cvprw2020
 https://github.com/SoftwareGift/FeatherNets_Face-Anti-spoofing-Attack-Detection-Challenge-CVPR2019
 
 
+
+多帧
+### [Creating Artificial Modalities to Solve RGB Liveness](https://arxiv.org/abs/2006.16028)
+https://github.com/AlexanderParkin/CASIA-SURF_CeFA
