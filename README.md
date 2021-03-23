@@ -45,7 +45,7 @@ https://github.com/yaojieliu/ECCV20-STDN
 
 https://github.com/JinghuiZhou/awesome_face_antispoofing
 
-https://github.com/SeuTao/CVPR19-Face-Anti-spoofing
+
 
 2019
 
@@ -54,6 +54,11 @@ https://github.com/SoftwareGift/FeatherNets_Face-Anti-spoofing-Attack-Detection-
 
 ### [Multi-adversarial Discriminative Deep Domain Generalization for Face Presentation Attack Detection](https://openaccess.thecvf.com/content_CVPR_2019/papers/Shao_Multi-Adversarial_Discriminative_Deep_Domain_Generalization_for_Face_Presentation_Attack_Detection_CVPR_2019_paper.pdf)
 https://github.com/rshaojimmy/CVPR2019-MADDoG
+
+### [FaceBagNet: Bag-of-local-features Model for Multi-modal Face Anti-spoofing](https://openaccess.thecvf.com/content_CVPRW_2019/papers/CFS/Shen_FaceBagNet_Bag-Of-Local-Features_Model_for_Multi-Modal_Face_Anti-Spoofing_CVPRW_2019_paper.pdf)
+https://github.com/SeuTao/CVPR19-Face-Anti-spoofing
+
+提出FaceBagNet with Model Feature Erasing(MFE)框架：用随机截取的人脸区域代替完整人脸来训练CNN网络，MFE则是在训练中随机去掉某种模态的特征，以增强泛化；提取特征的Backbone设计主要参考ResNext，pipeline也很简单，如下图。作者实验证明来用人脸局部图像作为输入比直接拿人脸有用的多，还对比了不同尺寸的patch对精度的影响，结果显示尺寸为32*32时效果最好，TPR要比全脸高出6个多点！然后作者就用这个尺寸的输入做MFE的实验，同时也比较了用循环余弦学习率方法和标准SGD训练的区别，结果能看出循环余弦学习率和MFE都有贡献。
 
 ## 多帧
 
