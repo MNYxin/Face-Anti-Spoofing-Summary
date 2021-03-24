@@ -45,14 +45,9 @@ https://github.com/clks-wzz/FAS-SGTD
 
 _待定_
 
-https://github.com/1relia/CVPR2020-FaceAntiSpoofing
-
-https://github.com/wgqtmac/cvprw2020
-
 https://github.com/yaojieliu/ECCV20-STDN
 
-https://github.com/JinghuiZhou/awesome_face_antispoofing
-
+https://github.com/minivision-ai/Silent-Face-Anti-Spoofing
 
 
 2019
