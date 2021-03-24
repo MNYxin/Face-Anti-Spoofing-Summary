@@ -36,6 +36,8 @@ https://github.com/voqtuyen/CDCN-Face-Anti-Spoofing.pytorch
 ### [Learning Meta Model for Zero- and Few-shot Face Anti-spoofing](https://arxiv.org/abs/1904.12490)
 https://github.com/qyxqyx/AIM_FAS
 
+Zero-shot learning 旨在学习一般的区别特征，这些特征对可以从已知的假脸中检测未知的新假脸。Few-shot learning 旨在快速适应反欺骗模式，通过学习预先定义的假脸和收集到的少量新攻击的样本。
+
 ### [Deep Spatial Gradient and Temporal Depth Learning for Face Anti-spoofing](https://arxiv.org/abs/2003.08061)
 https://github.com/clks-wzz/FAS-SGTD
 
