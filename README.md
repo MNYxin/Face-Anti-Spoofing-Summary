@@ -20,6 +20,10 @@ https://github.com/Podidiving/lgsc-for-fas-pytorch
 
 https://github.com/Ontheway361/antispoof-single-image
 
+      [ResNet进化,替换encoder部分](https://mp.weixin.qq.com/s/E3nYTYHDZ20kZPrFJEJUMw)
+      
+      https://github.com/zlannnn/HO-ResNet/blob/main/HO-ResNet.py
+
 https://github.com/VIS-VAR/LGSC-for-FAS
 
 从异常检测的角度来解决活体问题，假设活体样本具有某种共同属性，属于一个closed-set，而攻击样本作为这个活体closed-set意外的异常，属于一个open-set（如图1所示）。定义了一个spoof cue map的概念，即攻击和活体之间的difference，并明确这种spoof cue只在攻击中存在，在活体没有（spoof cue map是all-zero map）。为了学习这种spoof cue map，作者通过显式的regression-loss、隐式的metric-learning和辅助分类器来做监督，有意思的是这篇文章里只对活体做了显式监督，只对活体做显式监督，通过隐式监督在特征空间里推开攻击，更神奇的是，这篇文章直接使用spoof cue map的magnitude做预测，而不是用分类器，也就是作者用分类器的作用是为了让整个网络学习到更合适的spoof cue map，而不是用分类器做决策，个人感觉这从一定程度上减轻了通过二分类解决活体模型的泛化性问题。
